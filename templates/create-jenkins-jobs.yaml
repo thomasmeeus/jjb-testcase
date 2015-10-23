@@ -7,7 +7,6 @@
       - var3
 
     publishers:
-
       - trigger-parameterized-builds:
           - project: '{variables}'
 
